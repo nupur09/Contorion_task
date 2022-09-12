@@ -1,0 +1,5 @@
+de\contorion\pages\LandingPage.class
+de\contorion\pages\LoginPage.class
+de\contorion\base\TestBase.class
+de\contorion\pages\ProductResultPage.class
+de\contorion\util\TestUtil.class
