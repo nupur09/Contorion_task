@@ -7,6 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import de.contorion.base.TestBase;
 
 public class LandingPage extends TestBase {
+	// author by nupur
 	
 	//Landing page is that page when user enter the url in browser and hit.
 
